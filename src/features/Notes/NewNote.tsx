@@ -1,4 +1,4 @@
-import { NoteData, Tag } from "./App.tsx";
+import { NoteData, Tag } from "../../App.tsx";
 import { NoteForm } from "./NoteForm.tsx";
 
 type NewNoteProps = {
