@@ -15,12 +15,14 @@
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5",
-    "react-select": "^5.10.0"
+    "react-select": "^5.10.0",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
+    "@types/uuid": "^10.0.0",
     "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.19.0",
     "eslint-plugin-react-hooks": "^5.0.0",
